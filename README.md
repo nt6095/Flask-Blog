@@ -1,5 +1,5 @@
 # Flask-Blog
-using Python, Flask Libraries, SQLAlchemy 
+Using Python, Flask Libraries, SQLAlchemy 
 
 ## Overview:
 
